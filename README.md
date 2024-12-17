@@ -10,7 +10,7 @@ Tutorial (be also in our documentation)
 - Begining at Title Screen. (Play, Settings Sound, Exit game)
 - In Play Screen
   + New game: create a new game
-  + Load saved game: open an existing game
+  + Load saved game: open an existing game (you can't undo, redo because we only save the game states except list move).
   + Back to Title Screen
 - In Settings Screen:
   + You just can setting audio when you in title screen.
