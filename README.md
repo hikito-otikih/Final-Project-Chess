@@ -30,3 +30,7 @@ Scroll to see made moves.
 - Other options: press Esc(ape), you can settings (piece, audio, board), go to title screen (back to
 menu button).
 ```
+See that
+```
+https://github.com/hikito-otikih/Final-Project-Chess
+```
