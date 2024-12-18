@@ -32,6 +32,12 @@ Scroll to see made moves.
 menu button).
 ```
 See that
+
+Our work in *Github*
 ```
 https://github.com/hikito-otikih/Final-Project-Chess
+```
+Our work in *Google Drive*
+```
+https://drive.google.com/drive/folders/1NSZXIboxtjIm01uo4XTV5AuJ1UBp74kq?usp=sharing
 ```
