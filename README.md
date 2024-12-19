@@ -1,5 +1,5 @@
 # Final-Project-Chess
-Our chess game (ChessGame.exe) is in 
+Our chess game *(ChessGame.exe)* is in 
 ```cpp
 Final-Project-Chess\build\Release
 ```
