@@ -1,7 +1,7 @@
 # Final-Project-Chess
 Our chess game *(ChessGame.exe)* is in 
 ```cpp
-Final-Project-Chess\build\Release
+build\Release
 ```
 Saved files is also stored in that folder.
 
