@@ -1,6 +1,6 @@
-^D:\PROJECTS\CHESSGAME\BUILD\CMAKEFILES\37519653CC3738340D56E82D921D9996\GENERATE.STAMP.RULE
+^D:\PROJECTS\24125020_24125023\FINAL-PROJECT-CHESS\BUILD\CMAKEFILES\F8F022607D78417269ADC4F7530584B8\GENERATE.STAMP.RULE
 setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SD:/projects/ChessGame -BD:/projects/ChessGame/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/projects/ChessGame/build/ChessGame.sln
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/projects/24125020_24125023/Final-Project-Chess -BD:/projects/24125020_24125023/Final-Project-Chess/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/projects/24125020_24125023/Final-Project-Chess/build/ChessGame.sln
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

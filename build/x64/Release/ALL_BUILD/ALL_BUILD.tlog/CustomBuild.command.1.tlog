@@ -1,6 +1,6 @@
-^D:\PROJECTS\CHESSGAME\CMAKELISTS.TXT
+^D:\PROJECTS\24125020_24125023\FINAL-PROJECT-CHESS\CMAKELISTS.TXT
 setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SD:/projects/ChessGame -BD:/projects/ChessGame/build --check-stamp-file D:/projects/ChessGame/build/CMakeFiles/generate.stamp
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/projects/24125020_24125023/Final-Project-Chess -BD:/projects/24125020_24125023/Final-Project-Chess/build --check-stamp-file D:/projects/24125020_24125023/Final-Project-Chess/build/CMakeFiles/generate.stamp
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

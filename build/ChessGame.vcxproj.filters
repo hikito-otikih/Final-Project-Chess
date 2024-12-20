@@ -1,136 +1,136 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="D:\projects\ChessGame\src\Animation.cpp">
+    <ClCompile Include="D:\projects\24125020_24125023\Final-Project-Chess\src\Animation.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\projects\ChessGame\src\Application.cpp">
+    <ClCompile Include="D:\projects\24125020_24125023\Final-Project-Chess\src\Application.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\projects\ChessGame\src\AudioSettingsState.cpp">
+    <ClCompile Include="D:\projects\24125020_24125023\Final-Project-Chess\src\AudioSettingsState.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\projects\ChessGame\src\AudioSettingsStateOnlyMusicTheme.cpp">
+    <ClCompile Include="D:\projects\24125020_24125023\Final-Project-Chess\src\AudioSettingsStateOnlyMusicTheme.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\projects\ChessGame\src\Button.cpp">
+    <ClCompile Include="D:\projects\24125020_24125023\Final-Project-Chess\src\Button.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\projects\ChessGame\src\CheckMateBlackState.cpp">
+    <ClCompile Include="D:\projects\24125020_24125023\Final-Project-Chess\src\CheckMateBlackState.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\projects\ChessGame\src\CheckMateWhiteState.cpp">
+    <ClCompile Include="D:\projects\24125020_24125023\Final-Project-Chess\src\CheckMateWhiteState.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\projects\ChessGame\src\ChessGame.cpp.cpp">
+    <ClCompile Include="D:\projects\24125020_24125023\Final-Project-Chess\src\ChessGame.cpp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\projects\ChessGame\src\ChessGame1PlayerState.cpp">
+    <ClCompile Include="D:\projects\24125020_24125023\Final-Project-Chess\src\ChessGame1PlayerState.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\projects\ChessGame\src\ChessGame2PlayersState.cpp">
+    <ClCompile Include="D:\projects\24125020_24125023\Final-Project-Chess\src\ChessGame2PlayersState.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\projects\ChessGame\src\ChooseBoard.cpp">
+    <ClCompile Include="D:\projects\24125020_24125023\Final-Project-Chess\src\ChooseBoard.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\projects\ChessGame\src\ChooseLevel.cpp">
+    <ClCompile Include="D:\projects\24125020_24125023\Final-Project-Chess\src\ChooseLevel.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\projects\ChessGame\src\ChooseMusicMission.cpp">
+    <ClCompile Include="D:\projects\24125020_24125023\Final-Project-Chess\src\ChooseMusicMission.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\projects\ChessGame\src\ChooseMusicTheme.cpp">
+    <ClCompile Include="D:\projects\24125020_24125023\Final-Project-Chess\src\ChooseMusicTheme.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\projects\ChessGame\src\ChoosePieces.cpp">
+    <ClCompile Include="D:\projects\24125020_24125023\Final-Project-Chess\src\ChoosePieces.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\projects\ChessGame\src\ChooseTeamState.cpp">
+    <ClCompile Include="D:\projects\24125020_24125023\Final-Project-Chess\src\ChooseTeamState.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\projects\ChessGame\src\Component.cpp">
+    <ClCompile Include="D:\projects\24125020_24125023\Final-Project-Chess\src\Component.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\projects\ChessGame\src\Container.cpp">
+    <ClCompile Include="D:\projects\24125020_24125023\Final-Project-Chess\src\Container.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\projects\ChessGame\src\ContainerOnlyClick.cpp">
+    <ClCompile Include="D:\projects\24125020_24125023\Final-Project-Chess\src\ContainerOnlyClick.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\projects\ChessGame\src\ExtraButton.cpp">
+    <ClCompile Include="D:\projects\24125020_24125023\Final-Project-Chess\src\ExtraButton.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\projects\ChessGame\src\FIFTY_MOVE_RULE.cpp">
+    <ClCompile Include="D:\projects\24125020_24125023\Final-Project-Chess\src\FIFTY_MOVE_RULE.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\projects\ChessGame\src\INSUFFICIENT_MATERIAL.cpp">
+    <ClCompile Include="D:\projects\24125020_24125023\Final-Project-Chess\src\INSUFFICIENT_MATERIAL.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\projects\ChessGame\src\Loadgame.cpp">
+    <ClCompile Include="D:\projects\24125020_24125023\Final-Project-Chess\src\Loadgame.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\projects\ChessGame\src\MenuPlaysState.cpp">
+    <ClCompile Include="D:\projects\24125020_24125023\Final-Project-Chess\src\MenuPlaysState.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\projects\ChessGame\src\MusicPlayer.cpp">
+    <ClCompile Include="D:\projects\24125020_24125023\Final-Project-Chess\src\MusicPlayer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\projects\ChessGame\src\NewGameState.cpp">
+    <ClCompile Include="D:\projects\24125020_24125023\Final-Project-Chess\src\NewGameState.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\projects\ChessGame\src\PauseState.cpp">
+    <ClCompile Include="D:\projects\24125020_24125023\Final-Project-Chess\src\PauseState.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\projects\ChessGame\src\Piece.cpp">
+    <ClCompile Include="D:\projects\24125020_24125023\Final-Project-Chess\src\Piece.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\projects\ChessGame\src\Player.cpp">
+    <ClCompile Include="D:\projects\24125020_24125023\Final-Project-Chess\src\Player.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\projects\ChessGame\src\PromotionState.cpp">
+    <ClCompile Include="D:\projects\24125020_24125023\Final-Project-Chess\src\PromotionState.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\projects\ChessGame\src\SaveGameState.cpp">
+    <ClCompile Include="D:\projects\24125020_24125023\Final-Project-Chess\src\SaveGameState.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\projects\ChessGame\src\SettingOnlyAudio.cpp">
+    <ClCompile Include="D:\projects\24125020_24125023\Final-Project-Chess\src\SettingOnlyAudio.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\projects\ChessGame\src\SettingsState.cpp">
+    <ClCompile Include="D:\projects\24125020_24125023\Final-Project-Chess\src\SettingsState.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\projects\ChessGame\src\SoundPlayer.cpp">
+    <ClCompile Include="D:\projects\24125020_24125023\Final-Project-Chess\src\SoundPlayer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\projects\ChessGame\src\StaleMateState.cpp">
+    <ClCompile Include="D:\projects\24125020_24125023\Final-Project-Chess\src\StaleMateState.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\projects\ChessGame\src\State.cpp">
+    <ClCompile Include="D:\projects\24125020_24125023\Final-Project-Chess\src\State.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\projects\ChessGame\src\StateStack.cpp">
+    <ClCompile Include="D:\projects\24125020_24125023\Final-Project-Chess\src\StateStack.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\projects\ChessGame\src\THREEFOLD_REPETITION.cpp">
+    <ClCompile Include="D:\projects\24125020_24125023\Final-Project-Chess\src\THREEFOLD_REPETITION.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\projects\ChessGame\src\TitleState.cpp">
+    <ClCompile Include="D:\projects\24125020_24125023\Final-Project-Chess\src\TitleState.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\projects\ChessGame\src\Utility.cpp">
+    <ClCompile Include="D:\projects\24125020_24125023\Final-Project-Chess\src\Utility.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\projects\ChessGame\src\volumeSettings.cpp">
+    <ClCompile Include="D:\projects\24125020_24125023\Final-Project-Chess\src\volumeSettings.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="D:\projects\ChessGame\CMakeLists.txt" />
+    <CustomBuild Include="D:\projects\24125020_24125023\Final-Project-Chess\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{A0B582F9-04C6-3F33-B528-FB1888A53150}</UniqueIdentifier>
+      <UniqueIdentifier>{57B7E277-7C3F-3839-98F4-775A0CF2BA46}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

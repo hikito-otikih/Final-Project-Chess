@@ -2,13 +2,13 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\projects\ChessGame\build\x64\Release\ZERO_CHECK</FullPath>
+      <FullPath>D:\projects\24125020_24125023\Final-Project-Chess\build\x64\Release\ZERO_CHECK</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>D:\projects\ChessGame\build\Release\ChessGame.exe</FullPath>
+      <FullPath>D:\projects\24125020_24125023\Final-Project-Chess\build\Release\ChessGame.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>D:\projects\ChessGame\build\x64\Release\ALL_BUILD</FullPath>
+      <FullPath>D:\projects\24125020_24125023\Final-Project-Chess\build\x64\Release\ALL_BUILD</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
