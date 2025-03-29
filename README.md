@@ -3,7 +3,7 @@ Our chess game *(ChessGame.exe)* is in
 ```cpp
 build\Release
 ```
-Saved files is also stored in that folder.
+Saved files are also stored in that folder.
 
 Tutorial (be also in our documentation)
 ```
